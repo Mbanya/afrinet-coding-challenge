@@ -31,5 +31,6 @@ Above is an Admin Panel built with Laravel 8 and Livewire that has below functio
   - `MAIL_PASSWORD`
   
 - Run `php artisan key:generate`
+- Run `php artisan migrate --seed `
 - Run `php artisan serve`
 - Open browser and go to http://127.0.0.1:8000
